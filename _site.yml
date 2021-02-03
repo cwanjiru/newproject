@@ -10,4 +10,5 @@ navbar:
       href: page1.html
     - text: "Page 2"
       href: page2.html
+output_dir: "."
  
