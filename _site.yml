@@ -1,0 +1,13 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Page 1"
+      href: page1.html
+    - text: "Page 2"
+      href: page2.html
+ 
